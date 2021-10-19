@@ -1,10 +1,10 @@
 # This is a README file for the assesment of a candidate position for a software engineer at Corigine
 
-#This source code is developed in Python 3. The task evaluates the ability to utilise new tools, coding, documentation, and error checking.
+### The task evaluates the ability to utilise new tools, coding, documentation, and error checking.
 
-#The python file solves a numerical algorithmic problem by finding the sum of all the digitals of a factorial number. Any factorial number below 5000 (n ≤ 5000) can be calculated by the python program included in this repository.
+### The python file solves a numerical algorithmic problem by finding the sum of all the digitals of a factorial number. Any factorial n ≤ 5000 can be calculated by the python program included in this repository.
 
-#This project adheres to the following:
+### This project adheres to the following:
 1. Use Python3.
 2. Use numpy for any math operations.
 3. If possible, avoid casting variables.
