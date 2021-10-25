@@ -1,2 +1,1 @@
-Python3
-numpy
+numpy==1.19.5
