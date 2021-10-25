@@ -12,5 +12,5 @@
 5. Packaged and executed as a Docker container.
 
 ### To execute the project, please run the following command on docker using dockerpython
-docker build -t dockerpython .
-docker run dockerpython
+#### docker build -t dockerpython .
+#### docker run dockerpython
