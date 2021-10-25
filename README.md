@@ -7,6 +7,9 @@
 ### This project adheres to the following:
 1. Use Python3.
 2. Use numpy for any math operations.
-3. If possible, avoid casting variables.
+3. It avoids casting variables.
 4. Follow good programming practices.
 5. Packaged and executed as a Docker container.
+
+### To execute the project, please run the following command on docker using dockerpython
+docker build -t dockerpython .
